@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f276ab7e0fee24fa6303b7739402a9, type: 3}
+  m_Name: Level 19
+  m_EditorClassIdentifier: 
+  initialDelay: 2
+  completionReward: 50
+  numberOfEnemies: 36
+  enemyTypes:
+  - {fileID: 4742264100258750932, guid: 5e8995e32d29bac489d595a41be0b3b1, type: 3}
+  - {fileID: 4742264100258750932, guid: ad253c6b738da7c46b244fcfa1675b4c, type: 3}
+  - {fileID: 4742264100258750932, guid: 98a4fc3f37d25b648ab48449ccb752e3, type: 3}
+  - {fileID: 4742264100258750932, guid: 51adc98736ae47545929f276c23ae335, type: 3}
+  spawnChance: 0a000000230000001e00000019000000
+  enemyDelay: 2
